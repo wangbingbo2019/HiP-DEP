@@ -3,8 +3,7 @@
 This repository contains the results data for the study on High-Purity Differential Expression (HiP-DEP) patterns across spatial domains.
 
 ## Framework
-
-![2_Framework_of_HiPDEP_Analyzer](../fig/2_Framework_of_HiPDEP_Analyzer.png)
+<img width="3960" height="4024" alt="2_Framework_of_HiPDEP_Analyzer" src="https://github.com/user-attachments/assets/d1d6d132-25c5-4100-910c-8104f5e62c44" />
 
 * **Quantification:** We formulate the Spatial Purity Index (SPi) to quantify the unilateral bias of differentially expressed genes, classifying spatial domains as Up-Regulation (UR) or Down-Regulation (DR) dominant.
 * **Universality Verification:** We establish a multi-omics benchmark dataset to statistically validate HiP-DEP as a universal hallmark of spatial transcriptomics.
@@ -61,4 +60,5 @@ This repository contains the results data for the study on High-Purity Different
 * `wilcox_DE_res.xlsx`: wilcox差异表达分析结果
 * `DESeq2_DE_res.xlsx`: DESeq2差异表达分析结果
 * `genes_sig_SPARKX_TCNs.rds`: SPARKX差异表达结果中的p-value结果
+
 * `logFC_SPARKX_TCNs.rds`: 差异表达结果中的logFC结果
