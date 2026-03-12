@@ -35,6 +35,7 @@ This repository contains the results data for the study on High-Purity Different
 **Key Findings:** HiP-DEP analysis uncovered hidden phenotypic heterogeneity between two pathologically similar plaques, where the Right plaque was an UR domain and the Left plaque was a DR domain, indicating divergent functional states.
 
 **Data Files:**
+
 * `counts_coords.rds`: 空间转录组数据的位置和表达数据
 * `plaque_density.rds`: 阿尔兹海默症Aβ斑块病理特征密度数据
 * `plaque_plot.png`: 阿尔兹海默症左右Aβ斑块的划分图
@@ -60,5 +61,5 @@ This repository contains the results data for the study on High-Purity Different
 * `wilcox_DE_res.xlsx`: wilcox差异表达分析结果
 * `DESeq2_DE_res.xlsx`: DESeq2差异表达分析结果
 * `genes_sig_SPARKX_TCNs.rds`: SPARKX差异表达结果中的p-value结果
-
 * `logFC_SPARKX_TCNs.rds`: 差异表达结果中的logFC结果
+
