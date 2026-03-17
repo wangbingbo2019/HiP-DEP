@@ -1,8 +1,0 @@
-空间转录组数据的空间域标签信息：spot_label.xlsx
-wilcox差异表达分析结果：wilcox_DE_res.xlsx
-单细胞参考数据：RCTD_cell_types.rds
-DESeq2差异表达分析结果：DESeq2_DE_res.xlsx
-SPARKX差异表达结果的p-value：genes_sig_SPARKX.rds
-切片空间域注释图像：H1_annotation.jpg
-差异表达结果的logFC：logFC_SPARKX.rds
-空间转录组数据的表达信息：spot_count.tsv
