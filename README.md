@@ -22,7 +22,7 @@ This repository contains the datasets and computational results supporting the t
 
 **Data Files:**
 
-* 切片空间域注释图像：pathologists_domain_annotation.jpg
+* 切片空间域注释图像：pathologists_domain_annotation.zip(pathologists_domain_annotation.jpg)
 * 空间转录组数据的空间域标签信息和位置信息：domainlabel_coords_for_spots.xlsx
 * 空间转录组数据的基因表达信息：expression_count_matrix.tsv
 * 单细胞参考数据：RCTD_cell_types.rds
