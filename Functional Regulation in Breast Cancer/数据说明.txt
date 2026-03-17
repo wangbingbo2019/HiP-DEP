@@ -1,0 +1,8 @@
+切片空间域注释图像：pathologists_domain_annotation.pdf
+空间转录组数据的空间域标签信息和位置信息：domainlabel_coords_for_spots.xlsx
+空间转录组数据的基因表达信息：expression_count_matrix.tsv
+单细胞参考数据：RCTD_cell_types.rds
+
+Seurat作为差异表达分析工具的计算结果(p-value & logFC)：Seurat_DE_result.xlsx
+DESeq2作为差异表达分析工具的计算结果(p-value & logFC)：DESeq2_DE_result.xlsx
+SPARKX作为差异表达分析工具的计算结果(p-value & logFC)：SPARKX_DE_pvalue.rds，SPARKX_DE_logFC.rds
