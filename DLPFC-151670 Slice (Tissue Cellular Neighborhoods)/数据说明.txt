@@ -1,8 +1,0 @@
-空间转录组数据的spot位置信息：DLPFC-151670_Coordinates.txt
-空间转录组数据的表达信息：matrix.h5
-利用CytoCommunity对细胞组织邻域的划分结果：ResultTable_DLPFC-151670.csv
-细胞组织邻域的划分结果：TCN_DLPFC-151670.pdf
-wilcox差异表达分析结果：wilcox_DE_res.xlsx
-DESeq2差异表达分析结果：DESeq2_DE_res.xlsx
-SPARKX差异表达结果中的p-value结果：genes_sig_SPARKX_TCNs.rds
-差异表达结果中的logFC结果：logFC_SPARKX_TCNs.rds
