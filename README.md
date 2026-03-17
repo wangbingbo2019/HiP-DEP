@@ -4,7 +4,8 @@ This repository contains the datasets and computational results supporting the t
 
 ## Framework
 
-![2_Framework_of_HiPDEP_Analyzer](../fig/2_Framework_of_HiPDEP_Analyzer.png)
+<img width="3960" height="4030" alt="2_Framework_of_HiPDEP_Analyzer" src="https://github.com/user-attachments/assets/c9a01c72-34cc-41bf-b370-68dbcc30916b" />
+
 
 * **Quantification:** We formulate the Spatial Purity Index (SPi) to quantify the unilateral bias of differentially expressed genes, classifying spatial domains as Up-Regulation (UR) or Down-Regulation (DR) dominant.
 * **Universality Verification:** We establish a multi-omics benchmark dataset to statistically validate HiP-DEP as a universal hallmark of spatial transcriptomics.
